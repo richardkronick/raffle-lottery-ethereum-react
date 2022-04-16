@@ -91,7 +91,7 @@ class App extends Component {
             </strong>
           </div>
           }
-          <img id="ethLogo" src="ethereum-logo-portrait-black-gray.png" alt="Ethereum Lottery Contract" />
+          <img id="ethLogo" src="https://ethereum.org/static/c3bcc8c47890ffd2a2c329972c73d0fd/702da/ethereum-logo-portrait-black-gray.webp" alt="Ethereum Lottery Contract" />
           <div className='row'>
             <h2>Ethereum Lottery Contract</h2>
           </div>
