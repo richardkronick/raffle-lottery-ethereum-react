@@ -102,7 +102,8 @@ class App extends Component {
           <div className='row'>
             <h4>*Note that this is on the Ethereum Rinkeby test network ONLY - This is a demo for development purposes (not real ETH).</h4>
           </div>
-        <p><a href='https://faucets.chain.link/rinkeby' target='_blank' rel="noreferrer" >Need some test ETH?</a></p>
+          <p><a href='https://faucets.chain.link/rinkeby' target='_blank' rel="noreferrer" >Need some test ETH?</a></p>
+          <p>See the <a href='https://github.com/richardkronick/Ethereum-Rafflle-Lottery-Solidity-Contract/blob/main/lottery.sol' target='_blank' rel="noreferrer" >Ethereum contract written in Solidity here</a> and the <a href='https://github.com/richardkronick/raffle-lottery-ethereum-react' target='_blank' rel="noreferrer" >React code here.</a></p>
         <p>
         <hr />
           This Ethereum lottery contract is managed by the following address: <span className='ethAddress'>{ this.state.manager }   </span>
